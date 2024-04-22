@@ -4,7 +4,7 @@ Hi, I am Sainenco Luchian, a developer from Romania 🇷🇴.
 
 I am focused mainly on front-end development coupled with serverless architecture. 
 
-My preferred programming language is JavaScript.
+My preferred programming language is JavaScript and now I am exploring Rust for embedded.
 
 You can check some of my projects on my website (WIP).
 
