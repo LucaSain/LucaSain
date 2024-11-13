@@ -7,12 +7,7 @@ I am fullstack dev and my main target software architecture. Currently exploring
 You can check some of my projects on [my website](https://lucasain.dev).
 
 ## My Tech Stack:
-+ Next
-+ Tailwind
-+ Node
-+ Mongo, Sql
-+ S3
-+ TBA: Containerization
+I do not believe in tech stacks:))
 
 
 ## Contact
